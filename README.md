@@ -1,1 +1,1 @@
-A simple registration form that sends user information to a database
+A simple registration form that stores user information in a database
